@@ -12,6 +12,7 @@ Organised primarily for self-reference, but feel free to peruse this accordingly
 * [Hailperin, Kaiser and Knight - Concrete Abstractions](https://gustavus.edu/mcs/max/concrete-abstractions.html)
 * [Harvey, Wright - Simply Scheme: Introducing Computer Science](https://people.eecs.berkeley.edu/~bh/ss-toc2.html)
 * [Abelson, Sussman - Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
+* [Felleisen, Findler, Flat and Krishnamurthi - How to Design Programs](https://htdp.org/2023-5-12/Book/index.html)
 
 ### Algorithms
 
