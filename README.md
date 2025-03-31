@@ -29,9 +29,15 @@ Legend:
 * 📖 [Lehman, Leighton and Meyer - Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
 * 🏛️ [MIT - Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/)
 
+## Statistics/Probability
+
+* 📖 [Jonathan Weisberg - Odds & Ends](https://jonathanweisberg.org/vip/)
+* 📖 [Modern Statistical Methods for Psychology](https://bookdown.org/gregcox7/ims_psych/)
+
 ## Other
 
 * 🕸️ [Internet Archive, Mir Titles](https://archive.org/details/mir-titles)
   * Collection of books on Mathematics from defunct Russian state-funded publisher
     [Mir](https://en.wikipedia.org/wiki/Mir_Publishers) on a variety of subjects,
     translated into English, French, etc.
+* 🕸️ [American Institute of Mathematics, Open Textbook Initiative](https://textbooks.aimath.org/textbooks/approved-textbooks/)
